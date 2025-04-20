@@ -1,0 +1,14 @@
+backports.tarfile==1.2.0
+dbt-snowflake==1.9.2
+dotenv==0.9.9
+inflect==7.3.1
+ipykernel==6.29.5
+ipynb==0.5.1
+jaraco.collections==5.1.0
+keyring==25.6.0
+msgpack==1.1.0
+pandas==2.2.3
+pip-chill==1.0.3
+snowflake-sqlalchemy==1.7.3
+tomli==2.0.1
+uv==0.6.13
